@@ -11,22 +11,21 @@ I created them to showcase my knowledge and skills throughout my career. If you 
 
 
 ## Tech Stack
----
-![](https://img.shields.io/badge/Ubuntu_Server_LTS-007ACC) ![](https://img.shields.io/badge/Nginx-007ACC) ![](https://img.shields.io/badge/Tailscale-007ACC) ![](https://img.shields.io/badge/Proxmox-007ACC) ![](https://img.shields.io/badge/VMware-007ACC)
 
-- **Next.js**: A React framework for building server-side rendering and static web applications.
-- **Auth.js**: Free and open source Authentication for the Web.
-- **Hono**: A lightweight web framework for building server-side applications with TypeScript.
-- **Drizzle ORM**: TypeScript-first ORM for type-safe database access.
-- **React Query**: Data-fetching library for managing server-state in React applications.
-- **Npm Package**: A fast JavaScript runtime that includes a package manager, task runner, and more.
+![](https://img.shields.io/badge/Ubuntu_Server_LTS-E95420) ![](https://img.shields.io/badge/Nginx-009639) ![](https://img.shields.io/badge/Tailscale-000000) ![](https://img.shields.io/badge/Proxmox-E57000) ![](https://img.shields.io/badge/VMware-479fd4)</center>
+
+- **Ubuntu Server LTS:** An open-source, enterprise-grade Linux OS designed for scale an long-term support and stability for hosting critical applications and cloud infrastructure.
+- **Proxmox VE:** An open-source **server management platform** for **enterprise virtualization** that tightly integrates KVM hypervisors and **Linux Containers (LXC)** into a single web-based interface.
+- **Tailscale:** A zero-config **virtual private network (VPN)** that builds a secure encrypted mesh network between devices. Also used for exposing sites across all networks using **Tailscale Funnel**.
+- **Nginx:** A high-performance, open-source **HTTP web server and reverse proxy** capable of handling massive volumes of concurrent connections while offering **load balancing** and HTTP caching. 
+- **VMware:** A **virtualization technology** providing industry-standard and bare-metal hypervisor software **(ESXi)** to run multiple isolated operating system in a physical machine. This was used on a local computer for **local testing** before deploying into Proxmox VE in a repurposed laptop.
 
 
 ## Hardware
----
-> Old Laptop
-> 5 Port Network Switch
-> TP Link Router (to be bought soon)
+
+- Old Laptop
+- 5 Port Network Switch
+- TP Link Router (to be bought soon)
 
 
 ##  Installation Guide
