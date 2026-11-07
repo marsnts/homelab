@@ -15,17 +15,15 @@
 	5. Tailscale
 ---
 # Table of Contents
-## [[System Diagram]]
+## [System Diagram](System%20Diagram.md)
 
-## [[Installing and Setting Up Proxmox]]
+## [Installing and Setting Up Proxmox](Installing%20and%20Setting%20Up%20Proxmox.md)
 
-## [[Installing Ubuntu]]
+## [Installing Ubuntu](Installing%20Ubuntu.md)
 
-## [[Ubuntu Server Setup]]
+## [Setting Up Nginx](Setting%20Up%20Nginx.md)
 
-## [[Setting Up NGINX]]
+## [Setting Up Tailscale](Setting%20Up%20Tailscale.md)
 
-## [[Setting Up Tailscale]]
-
-## [[Portfolio]]
-## Additional Notes
+## [Portfolio](Portfolio.md)
+## [Additional Notes](Additional%20Notes.md)

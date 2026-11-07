@@ -168,7 +168,6 @@ Go the the Access Control tab and add a `nodeAttrs` block to allow Funnel on the
         "attr":   ["funnel"],
     },
 ],
-
 ```
 
 Point the nginx to localhost. Tailscale background service handles incoming public traffic and reroutes it internally. Because of this, nginx needs to listen on 172.0.0.1 (localhost) so Tailscale can handle traffic locally

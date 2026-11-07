@@ -90,3 +90,9 @@ sudo tailscale funnel --bg http://localhost:80
 curl -v https://marsnts.tarsier-map.ts.net
 curl -I https://marsnts.tarsier-map.ts.net
 ```
+
+Changing owner of the directory and grant full permission to the owner:
+```bash
+sudo chown -R username /path/to/directory
+chmod -R u+rwx /path/to/directory
+```
