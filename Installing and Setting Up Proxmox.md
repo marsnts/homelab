@@ -4,7 +4,7 @@
 Install the Proxmox VE image file using this [link](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) and use [rufus](https://rufus.ie/en/) and [balenaEtcher](https://etcher.balena.io/) to flash the image file into the USB flash drive for installation.
 
 In my case, I used Rufus
-![[Rufus.png]]
+![Rufus](Assets/Rufus.png)
 
 Enter the BIOS/UEFI on the computer while the USB Flash drive with the installer plugged in. Boot from the USB Flash drive and install Proxmox VE.
 

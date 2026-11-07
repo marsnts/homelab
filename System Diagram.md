@@ -1,2 +1,2 @@
-![[SystemDiagram.png]]
+![SystemDiagram](Assets/SystemDiagram.png)
 some text

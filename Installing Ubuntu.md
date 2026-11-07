@@ -4,7 +4,7 @@
 You can install the Ubuntu Server 26.04 LTS image file using this [link](https://ubuntu.com/download/server) and use [rufus](https://rufus.ie/en/) and [balenaEtcher](https://etcher.balena.io/) to flash the image file into the USB flash drive for installation.
 
 In my case, I used Rufus
-![[Rufus.png]]
+![Rufus](Assets/Rufus.png)
 
 Enter the BIOS/UEFI on your computer while the USB Flash drive with the installer plugged in. Boot from the USB Flash drive and install Ubuntu server to your liking but I would personally enable OpenSSH.
 ### Server Setup
@@ -158,10 +158,10 @@ It will show `user.name` and `user.email` entered during configuration.
 Create an account at [github.com](https://github.com).
 
 Create a new repository at the upper right section at GitHub:
-![[Github1.png]]
+![Github1](Assets/Github1.png)
 
 Enter details:
-![[Github2.png]]
+![Github2](Assets/Github2.png)
 
 At the Ubuntu system, run these commands to connect the local repository to GitHub. Set up your repository with Git beforehand.
 ```bash
