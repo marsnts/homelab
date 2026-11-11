@@ -1,7 +1,7 @@
 
 In order to create a VM, uploading an ISO image of the operating system you want to install is needed. Go to your storage on your **local node > ISO Images > Upload > Select File > Upload**
 
-![Rufus](Assets/Rufus.png)
+![Rufus](Assets/Proxmox1.png)
 
 After uploading the ISO image of the desired operating system, creating a VM can be done. On the upper left click on Create VM. 
 
